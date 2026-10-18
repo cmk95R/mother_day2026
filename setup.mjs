@@ -696,7 +696,7 @@ export default function SaveableCardModal({ isOpen, onClose, config }) {
 
     ctx.fillStyle = '#F8C8DC';
     ctx.font = '115px "Great Vibes", cursive';
-    ctx.fillText(\`\${config.destinataria}!\`, 540, 470);
+    ctx.fillText('Amor!', 540, 470);
 
     ctx.fillStyle = '#E75480';
     ctx.font = '90px serif';
@@ -1344,7 +1344,7 @@ export default function App() {
               >
                 <Sparkles className="w-10 h-10 text-dorado mx-auto mb-4 animate-spin" />
                 <h2 className="font-serif text-4xl sm:text-6xl text-crema leading-tight mb-4">
-                  ¡Feliz Día de la Madre, {STORY_CONFIG.destinataria}!
+                  ¡Feliz Día de la Madre, Amor!
                 </h2>
                 <p className="font-serif italic text-xl sm:text-3xl text-pastel mb-3">
                   “Gracias por ser el corazón de nuestra familia.”

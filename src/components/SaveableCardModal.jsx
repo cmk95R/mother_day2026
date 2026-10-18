@@ -47,7 +47,7 @@ export default function SaveableCardModal({ isOpen, onClose, config }) {
 
     ctx.fillStyle = '#F8C8DC';
     ctx.font = '115px "Great Vibes", cursive';
-    ctx.fillText(`${config.destinataria}!`, 540, 470);
+    ctx.fillText('Amor!', 540, 470);
 
     ctx.fillStyle = '#E75480';
     ctx.font = '90px serif';
