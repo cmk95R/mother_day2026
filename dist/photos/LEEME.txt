@@ -1,0 +1,11 @@
+Colocá acá las fotografías familiares con los siguientes nombres para que aparezcan automáticamente:
+- historia-1.jpg
+- historia-2.jpg
+- historia-3.jpg
+- historia-4.jpg
+- historia-5.jpg
+- recuerdo-1.jpg
+- recuerdo-2.jpg
+- recuerdo-3.jpg
+- recuerdo-4.jpg
+- dibujo-mateo.jpg
